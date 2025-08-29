@@ -20,3 +20,13 @@
 ### 🚀 Most Used Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nadew-jayaweera&layout=compact&theme=radical)
+
+---
+
+## 🛠️ Tech Stack
+**Languages & Frameworks**
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,py,c,mysql,firebase,github&theme=light" />
+</p>
+
+---

@@ -50,7 +50,6 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,kalilinux&theme=dark" />
-  <p><i>(Added Linux/Kali icons as they are essential for Hacking)</i></p>
 </div>
 
 ---
